@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/muhammedfarseent/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/muhammedfarseent/Leetcode/tree/master/0268-missing-number) |
+| [2383-add-two-integers](https://github.com/muhammedfarseent/Leetcode/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
