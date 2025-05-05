@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/muhammedfarseent/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/muhammedfarseent/Leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
