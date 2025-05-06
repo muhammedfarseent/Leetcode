@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/muhammedfarseent/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/muhammedfarseent/Leetcode/tree/master/0268-missing-number) |
+| [2083-three-divisors](https://github.com/muhammedfarseent/Leetcode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/muhammedfarseent/Leetcode/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedfarseent/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/muhammedfarseent/Leetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/muhammedfarseent/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
