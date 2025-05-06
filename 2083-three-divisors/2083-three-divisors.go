@@ -1,13 +1,14 @@
 func isThree(n int) bool {
-	var result int
+    if n == 1 || n == 2 || n == 3 {
+        return false
+    }
 
-	for i := 1; i <= n; i++ {
-		if n % i == 0 {
-			result++
-		} else if 3 < result {
-			break
-		}
-	}
+    c := 2
 
-	return result == 3
+    for i:=2; i< n/2+1; i++{
+        if n % i == 0 {
+            c++
+        }
+    }
+    return c == 3
 }
