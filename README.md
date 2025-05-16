@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/muhammedfarseent/Leetcode/tree/master/0013-roman-to-integer) |
 | [0742-to-lower-case](https://github.com/muhammedfarseent/Leetcode/tree/master/0742-to-lower-case) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/muhammedfarseent/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/muhammedfarseent/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3636-check-balanced-string](https://github.com/muhammedfarseent/Leetcode/tree/master/3636-check-balanced-string) |
 ## Simulation
@@ -60,5 +61,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/muhammedfarseent/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/muhammedfarseent/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/muhammedfarseent/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
