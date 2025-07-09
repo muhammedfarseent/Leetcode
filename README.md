@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/muhammedfarseent/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/muhammedfarseent/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
